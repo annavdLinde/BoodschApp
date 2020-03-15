@@ -1,0 +1,19 @@
+Omdat er binnen mijn groep al mensen een applicatie gebouwd hadden in zowel React als Angular bleef er weinig anders over dan Vue.
+Binnen de groep hebben we al een uitgebreide discussie gehad over de pro's en cons van alledrie de frameworks, dus dat zal ik hier niet opnieuw doen.
+De discussie is te vinden op: https://dev.azure.com/194267/Move.IT/_wiki/wikis/Move.IT.wiki/8/Angular-vs-React-vs-Vue.
+
+Zoals in de discussie vermeld wordt is Vue een licht framework dat in verhouding snel te moeten leren zou zijn.
+Hier ben ik het opzich mee eens, alhoewel het wel zo is dat het gemakkelijk is om de klok te horen luiden maar het wel echt even wat oefenen en inlezen is voor je de klepel ook weet te vinden.
+
+Het grootste nadeel van Vue vond ik dat de documentatie nog niet heel uitgebreid is. Ik had een aantal keer dat ik wilde weten of iets kon binnen het framework, maar daar eigenlijk geen antwoord op kon vinden.
+Over het algemeen heb ik in die gevallen dan maar een andere route gevonden.
+
+Alhoewel ik tevreden ben met hoe de app in basis is opgezet zijn er zeker nog een heel aantal dingen die ik zou verbeteren/ook nog zou willen toepassen.
+Deze heb ik hieronder in een lijstje staan, voor het geval ik ooit nog tijd heb.
+
+
+-bonus: fake REST API
+-bonus: routing
+-bonus: waarschuwing bij del-boodschap
+-bonus: greyed out uitbreiden zodat het 'aantal'-veld gedisabled is
+-bonus: project opnieuw maken met begrijpelijke object en methode namen
